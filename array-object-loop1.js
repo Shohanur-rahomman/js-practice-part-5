@@ -36,7 +36,7 @@ const students2 = [
     { name: "Aisha", age: 20, marks: 95 },
     { name: "Rahim", age: 22, marks: 95 },
     { name: "Karim", age: 21, marks: 95 },
-    { name: "Jabbar", age: 23, marks: 95 }
+    { name: "Jabbar", age: 23, marks: 95}
 ];
 const result = topGetStudent(students2);
 console.log(result);
